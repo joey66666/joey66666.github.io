@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tranquility</title>
+    <link>/en/</link>
+    <description>Recent content on Tranquility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://www.zjoey.com/&#34;&gt;z. Joey</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 22:15:32 +0800</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medium</title>
+      <link>/en/docs/notes/medium/</link>
+      <pubDate>Thu, 17 Dec 2020 22:15:32 +0800</pubDate>
+      
+      <guid>/en/docs/notes/medium/</guid>
+      <description>[179] Largest Number [495] Teemo Attacking [1094] Car Pooling  Medium [179] Largest Number  Overide the Comparator to self-compare in dict order e.g.:  if s1=&amp;ldquo;76&amp;rdquo;, s2=&amp;ldquo;53&amp;rdquo;, str1 = s1 + s2=&amp;ldquo;7653&amp;rdquo;, str2 = s2 + s1=&amp;ldquo;5375&amp;rdquo; in which case str2 &amp;lt; str1 call Arrays.Sort() with new comparator mind the corner case with all zero    [1094] Car Pooling  Use one-hot int array to record numbers at every location on and off the bus Compute all the locations and compare with capacity Two circle Time: O(n), Runtime: 100%  [495] Teemo Attacking  Compare last time + duration and current time Time: O(n), Runtime: 99.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leetcode Notes on Tranquility</title>
+    <link>/en/docs/</link>
+    <description>Recent content in Leetcode Notes on Tranquility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://www.zjoey.com/&#34;&gt;z. Joey</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 22:15:32 +0800</lastBuildDate><atom:link href="/en/docs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
